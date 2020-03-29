@@ -17,9 +17,8 @@ Auto-leveling Arduino based quadcopter built following the tutorial: [YMFC-AL - 
 - Various wires, diodes, resistors, etc.
 
 - Arduino filght controller code provided by [www.brocking.net](Brocking.net)
-# Photo
-![quad](https://github.com/jdvcDev/jbrik/blob/dev/resource/_MG_6751.JPG)
 
+![quad](https://github.com/jdvcDev/Arduino-Quad-Drone/blob/master/media/_MG_6764.JPG)
 
 
 #### Assembly 
