@@ -13,10 +13,10 @@ Auto-leveling Arduino based quadcopter built following the tutorial: [YMFC-AL - 
 - [3S 30C LiPo Battery](https://www.amazon.com/gp/product/B004PO4HF6) - Battery
 - [ABS Plastic](https://www.amazon.com/gp/product/B0007WTF02) - Plastic for flight controller mount
 - [1000KV Outrunner Brushless Motor](https://www.amazon.com/gp/product/B01KZC9NVO) - Motors
-- [8-Inches Propellers](https://www.amazon.com/gp/product/B01B1GOYK8) - Properllers
+- [8-Inche Propellers](https://www.amazon.com/gp/product/B01B1GOYK8) - Properllers
 - Various wires, diodes, resistors, etc.
 
-
+- Arduino filght controller code provided by [www.brocking.net](Brocking.net)
 # Photo
 ![quad](https://github.com/jdvcDev/jbrik/blob/dev/resource/_MG_6751.JPG)
 
