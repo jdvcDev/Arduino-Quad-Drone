@@ -24,8 +24,3 @@ Auto-leveling Arduino based quadcopter built following the tutorial: [YMFC-AL - 
 
 #### Assembly 
 [![quad video](https://github.com/jdvcDev/jbrik/blob/dev/resource/solver_thumb.png)](https://youtu.be/quxm4N8OrMs)
-
-
-# Challenges
-#### Challenge 1 
-blurb
